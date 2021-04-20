@@ -1,0 +1,28 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "Lobster", cursive;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+   background-image: linear-gradient(to right, #f31eac, #e3e5ee, #f31eac );
+   color: #84d619;
+}
+footer {
+    background-image: linear-gradient(#CEC8FF, white);
+    padding: 20px 0;
+}
+
+.carousel {
+    margin-top: 20px;
+    margin-bottom: 80px;
+    border: solid #b1dd37; 
+}
+
+.carousel-inner img{
+    height: 500px;
+}
